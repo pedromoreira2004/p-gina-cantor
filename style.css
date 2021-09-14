@@ -1,0 +1,56 @@
+* {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+h4{
+    text-align: center;
+    font-size: larger;
+    font-size: 25px;
+}
+h1 {
+    font-style: italic;
+    color: rgb(63, 11, 63);
+    background-color: rgb(200, 30, 223);
+    font-size: 60px;
+    text-align: center;
+    
+}
+h2{
+    font-style: italic;
+    color: rgb(63, 11, 63);
+    font-size: 25px;
+    text-align: left; 
+    font-family: Lucida Handwrinting;
+
+}
+table {
+    margin: 6px;
+}
+table, td, th {
+    border: 3px solid rgb(9, 9, 77);
+    border-collapse: collapse;
+}
+td {
+    text-align: center;
+    background-color: rgb(220, 154, 240);
+}
+th, td {
+    padding: 5px;
+}
+thead {
+    background-color: rgb(192, 53, 197);
+    
+}
+body{
+    background-color: rgba(96, 94, 235, 0.356);
+    border: 10px solid white;
+}
+img{
+    border: 8px solid rgb(192, 53, 197); 
+    max-height: 300px;
+    max-width: 1000px;
+    width: 600px;
+    height: 600px;
+}
+div {
+    text-align: center;
+  }
